@@ -1,0 +1,72 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T08:37:41.694Z",
+  "slug": "alpineviewholidayparkmotels",
+  "name": "Alpine View Holiday Park",
+  "city": "Christchurch",
+  "industry": {
+    "label": "Motels, hotels & B&Bs",
+    "niche": "motels, hotels & b&bs",
+    "group": "Food & hospitality"
+  },
+  "contact": {
+    "phone": "+6433497666",
+    "email": "alpine.view@xtra.co.nz",
+    "address": "650 Main S Rd, Christchurch"
+  },
+  "social": {
+    "facebook": "https://www.facebook.com/129034640575996"
+  },
+  "about": {
+    "overview": "Located on a sheltered 6 acres with tree lined boundaries just 15 mins from Christchurch City. The complex includes a Motel, Holiday Park and Backpackers Lodge",
+    "tagline": "Welcome to Alpine View Holiday Park & Motels Christchurch",
+    "services": [
+      "$130 - $200",
+      "Motel Units",
+      "$25 - $35",
+      "Holiday Park",
+      "From $30",
+      "Backpacker Lodge"
+    ]
+  },
+  "before": {
+    "url": "https://www.alpineviewholidayparkmotels.co.nz",
+    "domain": "alpineviewholidayparkmotels.co.nz",
+    "finalUrl": "https://www.alpineviewholidayparkmotels.co.nz/",
+    "title": "Alpine View Holiday Park & Motels Christchurch",
+    "pages": 4,
+    "score": 63,
+    "assessedAt": "2026-11-24T13:01:07.267Z",
+    "issues": [
+      {
+        "id": "no-viewport",
+        "title": "Not mobile-friendly",
+        "evidence": "The page has no responsive viewport tag, so phones show a shrunken desktop layout."
+      },
+      {
+        "id": "no-contact-path",
+        "title": "No easy way to get in touch",
+        "evidence": "No tap-to-call link and no enquiry form on the homepage."
+      },
+      {
+        "id": "stale-copyright",
+        "title": "Looks out of date",
+        "evidence": "Footer copyright reads 2010, 16 years ago."
+      },
+      {
+        "id": "no-schema",
+        "title": "No local-business search markup",
+        "evidence": "No structured data, so Google has less to show for the business."
+      }
+    ],
+    "screenshot": "screenshots/before-desktop.jpg"
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/alpine-view-holiday-park/",
+    "repoUrl": "https://github.com/tova-studio/alpine-view-holiday-park",
+    "generator": "claude",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T08:37:41.694Z"
+  }
+}
